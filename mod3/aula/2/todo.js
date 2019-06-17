@@ -5,8 +5,8 @@ var inputElement =
 var buttonElement = document.querySelector("#app button");
 
 var todos = [
-    'Google'
-    'estudar js'
+    'Google',
+    'estudar js',
     'acessar comunidade'
 
 ];  
